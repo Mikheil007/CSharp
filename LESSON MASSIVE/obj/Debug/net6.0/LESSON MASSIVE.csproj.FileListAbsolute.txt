@@ -1,0 +1,5 @@
+/Users/macbook/GB/LESSON MASSIVE/obj/Debug/net6.0/LESSON MASSIVE.csproj.AssemblyReference.cache
+/Users/macbook/GB/LESSON MASSIVE/obj/Debug/net6.0/LESSON MASSIVE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/GB/LESSON MASSIVE/obj/Debug/net6.0/LESSON MASSIVE.AssemblyInfoInputs.cache
+/Users/macbook/GB/LESSON MASSIVE/obj/Debug/net6.0/LESSON MASSIVE.AssemblyInfo.cs
+/Users/macbook/GB/LESSON MASSIVE/obj/Debug/net6.0/LESSON MASSIVE.csproj.CoreCompileInputs.cache
