@@ -1,4 +1,5 @@
-﻿int numbA;
+// Задача № 4
+int numbA;
 Console.WriteLine("numbA ");
 numbA = Convert.ToInt32(Console.ReadLine());
 int numbB;
