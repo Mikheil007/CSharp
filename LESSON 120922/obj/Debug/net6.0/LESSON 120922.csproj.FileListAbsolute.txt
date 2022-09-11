@@ -1,0 +1,15 @@
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/bin/Debug/net6.0/LESSON 120922
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/bin/Debug/net6.0/LESSON 120922.deps.json
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/bin/Debug/net6.0/LESSON 120922.runtimeconfig.json
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/bin/Debug/net6.0/LESSON 120922.dll
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/bin/Debug/net6.0/LESSON 120922.pdb
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/LESSON 120922.csproj.AssemblyReference.cache
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/LESSON 120922.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/LESSON 120922.AssemblyInfoInputs.cache
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/LESSON 120922.AssemblyInfo.cs
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/LESSON 120922.csproj.CoreCompileInputs.cache
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/LESSON 120922.dll
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/refint/LESSON 120922.dll
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/LESSON 120922.pdb
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/LESSON 120922.genruntimeconfig.cache
+/Users/macbook/GB/CSharp/CSharp/LESSON 120922/obj/Debug/net6.0/ref/LESSON 120922.dll
