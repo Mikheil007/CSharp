@@ -2,13 +2,6 @@
 // а она потом нам выводит предыдущее число, 
 // наше число и следующее
 
-// Console.WriteLine("Введите возраст человека ");
-// int Age = Convert.ToInt32(Console.ReadLine());
-// if (Age > 18 )
-// {
-// Console.WriteLine("Доступ разрешен ");
-// }
-// else {Console.WriteLine("Доступ запрешен");}
 
 Console.WriteLine("enter the number");
 int num = Convert.ToInt32(Console.ReadLine());
