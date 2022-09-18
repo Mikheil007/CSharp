@@ -1,0 +1,15 @@
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/LESSON 180922.csproj.AssemblyReference.cache
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/LESSON 180922.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/LESSON 180922.AssemblyInfoInputs.cache
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/LESSON 180922.AssemblyInfo.cs
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/LESSON 180922.csproj.CoreCompileInputs.cache
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/bin/Debug/net6.0/LESSON 180922
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/bin/Debug/net6.0/LESSON 180922.deps.json
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/bin/Debug/net6.0/LESSON 180922.runtimeconfig.json
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/bin/Debug/net6.0/LESSON 180922.dll
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/bin/Debug/net6.0/LESSON 180922.pdb
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/LESSON 180922.dll
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/refint/LESSON 180922.dll
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/LESSON 180922.pdb
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/LESSON 180922.genruntimeconfig.cache
+/Users/mikhailabramishvili/Desktop/GIT/CSharp/LESSON 180922/obj/Debug/net6.0/ref/LESSON 180922.dll
