@@ -1,7 +1,7 @@
 ﻿// 2) Вводим с клавиатуры размер 3 сторон треугольника.
 //   И говорим какой он - обычный, равнобедренный или равносторонний
 
-Console.WriteLine("Сторону X сторону треугольника");
+Console.WriteLine("Введите сторону X сторону треугольника");
 int X = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите сторону Y треугольника");
 int Y = Convert.ToInt32(Console.ReadLine());
@@ -15,7 +15,8 @@ else if (X != Y & Z != Y & Z !=X)
 {
     Console.WriteLine("треугольник - обычный");
 }
-else 
+else
 {
     Console.WriteLine("треугольник равнобедренный");
 }
+
